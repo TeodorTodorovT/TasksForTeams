@@ -1,0 +1,7 @@
+.task{
+    max-width: 300px;
+}
+
+.task .description {
+    width: 300px;
+}
